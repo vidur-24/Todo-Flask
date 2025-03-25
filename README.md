@@ -1,4 +1,4 @@
-Project = CRUD-based TODO APP
+Project = CRUD-based TODO APP using Python Flask
 
 Used:
 - Flask = Flask is a lightweight, flexible, and open-source Python microframework used for building web applications and APIs
