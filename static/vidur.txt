@@ -1,0 +1,2 @@
+- The files in static folder are hidden from users
+- we can access this only when we know that this file exist in this folder by using (/static/file_name)
